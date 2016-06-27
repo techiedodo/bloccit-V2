@@ -8,6 +8,7 @@ group :development do
   gem 'sqlite3'
 end
 gem 'bootstrap-sass'
+gem 'hirb', '~> 0.7.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
